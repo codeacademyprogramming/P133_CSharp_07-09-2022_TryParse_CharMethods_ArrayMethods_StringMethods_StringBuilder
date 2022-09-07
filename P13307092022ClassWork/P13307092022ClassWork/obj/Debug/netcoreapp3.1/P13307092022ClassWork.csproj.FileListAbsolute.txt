@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\bin\Debug\netcoreapp3.1\P13307092022ClassWork.exe
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\bin\Debug\netcoreapp3.1\P13307092022ClassWork.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\bin\Debug\netcoreapp3.1\P13307092022ClassWork.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\bin\Debug\netcoreapp3.1\P13307092022ClassWork.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\bin\Debug\netcoreapp3.1\P13307092022ClassWork.dll
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\bin\Debug\netcoreapp3.1\P13307092022ClassWork.pdb
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\obj\Debug\netcoreapp3.1\P13307092022ClassWork.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\obj\Debug\netcoreapp3.1\P13307092022ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\obj\Debug\netcoreapp3.1\P13307092022ClassWork.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\obj\Debug\netcoreapp3.1\P13307092022ClassWork.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\obj\Debug\netcoreapp3.1\P13307092022ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\obj\Debug\netcoreapp3.1\P13307092022ClassWork.dll
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\obj\Debug\netcoreapp3.1\P13307092022ClassWork.pdb
+C:\Users\hamid.mammadov\Desktop\P133\Class Work\P13307092022ClassWork\P13307092022ClassWork\obj\Debug\netcoreapp3.1\P13307092022ClassWork.genruntimeconfig.cache
